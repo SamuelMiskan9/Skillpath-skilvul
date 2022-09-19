@@ -1,16 +1,16 @@
 body {
-    color: #FFFFFF;
-    background-color: rgb(36, 24, 34);
+  color: #ffffff;
+  background-color: rgb(36, 24, 34);
 }
-#video-background{
-    position: relative;
+#video-background {
+  position: relative;
 }
 
 video {
-    position: absolute;
+  position: absolute;
 }
 
-#copyright-text{
-    color: rgb(36, 24, 34);
-    background-color:  rgb(154, 205, 50);
+#copyright-text {
+  color: rgb(36, 24, 34);
+  background-color: rgb(154, 205, 50);
 }
